@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-12T16:15:54+08:00</updated><entry><title>W10</title><link href="./w10_40923204.html" rel="alternate"></link><published>2022-05-12T15:27:00+08:00</published><updated>2022-05-12T16:15:54+08:00</updated><author><name>40923204</name></author><id>tag:None,2022-05-12:./w10_40923204.html</id><summary type="html">&lt;p&gt;W10任務&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-12T16:22:12+08:00</updated><entry><title>W10</title><link href="./w10_40923204.html" rel="alternate"></link><published>2022-05-12T15:27:00+08:00</published><updated>2022-05-12T16:22:12+08:00</updated><author><name>40923204</name></author><id>tag:None,2022-05-12:./w10_40923204.html</id><summary type="html">&lt;p&gt;W10任務&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W10任務&lt;/p&gt;
 
 
@@ -21,7 +21,7 @@ var winkVideoData_ssh_setup = {
 &lt;div class="winkVideoContainerClass" style="border: thin solid black; padding: 10px;"&gt;&lt;video width="100%" height="100%" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="./../cmsimde/static" data-varname="winkVideoData_ssh_setup" muted="true"&gt;
 &lt;source src="./../downloads/ssh_setup.mp4" type="video/mp4" /&gt;&lt;/video&gt;&lt;/div&gt;
 
-&lt;h2&gt;w10-nx-integ&lt;/h2&gt;
+&lt;h2&gt;w10-nx-integ video&lt;/h2&gt;
 &lt;p&gt;w10-nx-integ video&lt;/p&gt;
 &lt;script&gt;
 // 在 Javascript 標註內以兩個斜線加入單行註解
